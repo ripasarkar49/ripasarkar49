@@ -4,7 +4,7 @@
 </p>
 
 # <p align="center">Hi there! 👋 I'm Ripa Sarkar</p> 
-## <p align="">💻👨‍💻 Frontend Developer</p> 
+## <p align="">💻 Frontend Developer</p> 
 
 ### 👨‍💻 About Me
 "I am a passionate Full Stack Developer dedicated to crafting clean, functional, and user-centric web applications. With a strong foundation in the MERN stack, I enjoy turning complex problems into simple, elegant solutions through efficient code. I am constantly learning and staying up-to-date with the latest industry trends to build scalable and impactful products."
