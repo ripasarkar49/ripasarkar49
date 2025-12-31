@@ -3,8 +3,8 @@
   <img width="1080" height="620" alt="Image" src="https://github.com/user-attachments/assets/6e28b0b4-7624-4c8a-aeb1-2d528cf64ce2" />
 </p>
 
-# <p align="center">Hi there! 👋 I'm Ripa Sarkar</p> ## 💻 Frontend Developer
-## 💻 Frontend Developer
+# <p align="center">Hi there! 👋 I'm Ripa Sarkar</p> 
+## <p align="center">💻 Frontend Developer</p> 
 
 ### 👨‍💻 About Me
 "I am a passionate Full Stack Developer dedicated to crafting clean, functional, and user-centric web applications. With a strong foundation in the MERN stack, I enjoy turning complex problems into simple, elegant solutions through efficient code. I am constantly learning and staying up-to-date with the latest industry trends to build scalable and impactful products."
