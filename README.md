@@ -12,9 +12,10 @@
 ---
 
 ### 🛠️ Current Activities
-- 🚀 I am **exploring Next.js** to build high-performance, SEO-friendly applications.
-- 🏖️ I’m currently **working on a tourism website** project to streamline travel bookings.
-- 📚 Deepening my knowledge in **System Architecture** and **API Optimization**.
+- 🚀 I am exploring Next.js to build high-performance, SEO-friendly applications.
+- 🩸 Enhancing BloodCare, a life-saving platform for blood donation management.
+- 🐾 Working on Pawmart, a modern pet marketplace built with React and MongoDB.
+- 🧸 Developing a Toy Marketplace featuring Firebase authentication and Google login.
 - ✍️ Writing technical blogs to share my learning journey with the community.
 
 ---
