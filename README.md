@@ -3,7 +3,6 @@
   <img src="https://ibb.co.com/23RN7dgc" alt="Banner" width="100%">
 </p>
 
-
 # <p align="center">Hi there! 👋 I'm Ripa Sarkar</p>
 ## 💻 Frontend Developer
 
