@@ -8,7 +8,7 @@
 ## 💻 Frontend Developer
 
 ### 👨‍💻 About Me
-I am a dedicated software developer passionate about building clean, functional, and user-centric web applications. With a strong focus on the MERN stack, I strive to solve complex problems through efficient code and creative design. I love learning new technologies and contributing to the developer community.
+"I am a passionate Full Stack Developer dedicated to crafting clean, functional, and user-centric web applications. With a strong foundation in the MERN stack, I enjoy turning complex problems into simple, elegant solutions through efficient code. I am constantly learning and staying up-to-date with the latest industry trends to build scalable and impactful products."
 
 ---
 
@@ -16,22 +16,33 @@ I am a dedicated software developer passionate about building clean, functional,
 - 🚀 I am **exploring Next.js** to build high-performance, SEO-friendly applications.
 - 🏖️ I’m currently **working on a tourism website** project to streamline travel bookings.
 - 📚 Deepening my knowledge in **System Architecture** and **API Optimization**.
+- ✍️ Writing technical blogs to share my learning journey with the community.
 
 ---
 
-### 🔥 Recommended Skills
+### 🔥Skills
 
-#### **Frontend**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> &nbsp; <b>⚛ React</b> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp; <b>⚡ JavaScript</b>
-</p>
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-#### **Backend**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> &nbsp; <b>🟢 Node.js</b> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> &nbsp; <b>🍃 MongoDB</b>
-</p>
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
+
+### ⚙️ Backend & Auth
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### 🛢️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
