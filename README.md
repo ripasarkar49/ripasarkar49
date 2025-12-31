@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://ibb.co.com/23RN7dgc" alt="Banner" width="100%">
+  <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/6e28b0b4-7624-4c8a-aeb1-2d528cf64ce2" />
 </p>
 
 # <p align="center">Hi there! 👋 I'm Ripa Sarkar</p>
