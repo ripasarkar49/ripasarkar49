@@ -8,7 +8,25 @@
 </p>
 
 # <p align="center">Hi there! 👋 I'm Ripa Sarkar</p> 
-## <p align="">💻 Frontend Developer</p> 
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Web+Enthusiast;Open+Source+Contributor" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">📍 Khulna, Bangladesh</p>
+
+---
+
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ripasarkar49.ripasarkar49" alt="Visitor Badge"/>
+</p>
+
+---
+
 
 ### 👨‍💻 About Me
 "I am a passionate Full Stack Developer dedicated to crafting clean, functional, and user-centric web applications. With a strong foundation in the MERN stack, I enjoy turning complex problems into simple, elegant solutions through efficient code. I am constantly learning and staying up-to-date with the latest industry trends to build scalable and impactful products."
