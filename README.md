@@ -1,3 +1,7 @@
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" alt="Footer Banner"/>
+</p>
 
 <p align="center">
   <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/bc92e7df-9191-4de5-90d6-19ac099dc5b0" />
