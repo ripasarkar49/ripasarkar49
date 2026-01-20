@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<p align="center">📍 Khulna, Bangladesh</p>
+<p align="center">📍 Dhaka, Bangladesh</p>
 
 ---
 
