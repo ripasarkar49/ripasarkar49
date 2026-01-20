@@ -78,7 +78,7 @@
 
 --
 ### 📈 Contribution Activity
-![devShuvo25's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripasarkar49&theme=github)
+![ripasarkar49's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ripasarkar49&theme=github)
 
 <!-- Footer Banner -->
 <p align="center">
