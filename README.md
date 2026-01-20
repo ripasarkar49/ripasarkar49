@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="1080" height="620" alt="Image" src="https://github.com/user-attachments/assets/6e28b0b4-7624-4c8a-aeb1-2d528cf64ce2" />
+  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/bc92e7df-9191-4de5-90d6-19ac099dc5b0" />
 </p>
 
 # <p align="center">Hi there! 👋 I'm Ripa Sarkar</p> 
